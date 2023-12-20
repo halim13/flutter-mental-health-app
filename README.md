@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Thanks To
 
-This project is a starting point for a Flutter application.
+[Mitch Koko](https://www.youtube.com/watch?v=eegl7of4g-o)
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="446" alt="image" src="https://github.com/halim13/flutter-mental-health-app/assets/11336853/491e4059-4c49-4f9b-be93-d88d4dbe6d8f">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
